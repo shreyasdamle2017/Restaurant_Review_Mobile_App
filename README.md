@@ -8,3 +8,5 @@ This app has additonal dependencies which you can download by first downloading 
 As for the security reasons, I have not included my personal Yelp API key, so, you have to request your personal key from Yelp.com/fusion and this key has to be inserted in the "src/api/yelp.js" file. Inside the "yelp.js" file you can find "Insert your key here" text in front of "Bearer". Please insert key at this location.
 
 This project makes use of reusable react-native components, hooks Rest APIs, etc. You can also change the location from new york to any other location supported by Yelp by changing the value inside the "location" parameter inside useResults.js file.
+
+You can find all the project files in the Master.
